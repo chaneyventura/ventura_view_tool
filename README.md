@@ -20,7 +20,9 @@ Or install it yourself as:
 
 ## Usage
 
-TODO: Write usage instructions here
+```ruby
+VenturaViewTool::Renderer.copyright 'Chaney Ventura', 'All rights reserved'
+```
 
 ## Development
 
